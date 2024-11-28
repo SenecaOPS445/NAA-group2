@@ -2,7 +2,7 @@
 # Group ID: 2
 
 # Importing the functions from member1.py, member2.py, and member3.py
-from yal-aubadi import login_summary
+from yalaubadi import login_summary
 from rvshah5 import active_users
 from pkaur import detect_suspicious_activity, display_suspicious_activity
 
