@@ -1,0 +1,25 @@
+
+--------------------------------------------------
+group2
+--------------------------------------------------
+Python Version: 3.12.7 (main, Oct  1 2024, 11:15:50) [GCC 14.2.1 20240910]
+Ran on 2024-12-02 12:48:48.740837
+Git commit used: commit 93f6c428de00e910bc453eb68e6a00dd74df1bd9
+Merge: 65989c5 e8bb56d
+Author: rvshah5 <rishabhshah659@gmail.com>
+Date:   Thu Nov 28 10:08:09 2024 -0500
+
+    Merge pull request #1 from SenecaOPS445/rvshah5
+    
+    active user function
+
+
+--------------------------------------------------
+Relevant, useful, shows ambition           2.0/  3
+Comments and Documentation                 1.0/  5
+Adequate commits with good messages        1.0/  5
+No redundant code, variable names          2.0/  2
+
+--------------------------------------------------
+Total: 6.0/15
+FEEDBACK:
